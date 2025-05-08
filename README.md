@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on HealthFact Finder<br>👯 I’m looking to collaborate on data science and machine learning projects (NLP, sentiment analysis, predictive analytics). Real-world datasets<br>🤝 I’m looking for help with improving model accuracy and fine-tuning transformer models.<br>🌱 I’m currently learning deep learning with PyTorch and TensorFlow.<br>💬 Ask me about data science, ML algorithms, NLP, React.js frontend development, or building academic/real-world projects.<br>⚡ Fun fact I started with basic web projects and turned my laundry service idea into a full-stack platform — now I’m folding data as well as clothes! 😄
 
